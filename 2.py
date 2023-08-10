@@ -8,6 +8,7 @@ else:
     print("you either too young or too old")
 
 print("hello")
+print("3")
 
 
 
