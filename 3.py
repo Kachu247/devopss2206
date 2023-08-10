@@ -11,6 +11,6 @@ i = ("dor", "kachularo", 30, True)
 print(i[2])
 print(b + " from " +d)
 e = f"his name is {h['fname']} {h['lname']} and his hobbies are {h['hobbies']}"
-
+print(e)
 
 
